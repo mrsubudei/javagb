@@ -1,12 +1,12 @@
-package java1.lessonsforqa.lesson8;
+package java1.lesson8;
 
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static java1.lessonsforqa.lesson8.GameSnake.CANVAS_HEIGHT;
-import static java1.lessonsforqa.lesson8.GameSnake.CANVAS_WIDTH;
+import static java1.lesson8.GameSnake.CANVAS_HEIGHT;
+import static java1.lesson8.GameSnake.CANVAS_WIDTH;
 
 public class Poison {
     private List<Cell> poison;

@@ -1,4 +1,4 @@
-package java1.lessonsforqa.lesson7;
+package java1.lesson7;
 
 public class Plate {
     private int food;

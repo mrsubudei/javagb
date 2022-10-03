@@ -1,8 +1,8 @@
-package java1.lessonsforqa.lesson8;
+package java1.lesson8;
 
 import java.awt.*;
 
-import static java1.lessonsforqa.lesson8.GameSnake.SNAKE_HEAD_COLOR;
+import static java1.lesson8.GameSnake.SNAKE_HEAD_COLOR;
 
 public class Cell {
     private int x;

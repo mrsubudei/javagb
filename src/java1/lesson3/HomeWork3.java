@@ -1,4 +1,4 @@
-package java1.lessonsforqa.lesson3;
+package java1.lesson3;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package java1.lessonsforqa.lesson2;
+package java1.lesson2;
 
 public class HomeWork2 {
 

@@ -1,8 +1,8 @@
-package java1.lessonsforqa.lesson8;
+package java1.lesson8;
 
 import java.util.Random;
 
-import static java1.lessonsforqa.lesson8.GameSnake.*;
+import static java1.lesson8.GameSnake.*;
 
 public class Food extends Cell{
     private Random random;

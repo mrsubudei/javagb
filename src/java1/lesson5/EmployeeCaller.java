@@ -1,4 +1,4 @@
-package java1.lessonsforqa.lesson5;
+package java1.lesson5;
 
 public class EmployeeCaller {
     public static void main(String[] args) {

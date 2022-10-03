@@ -1,10 +1,10 @@
-package java1.lessonsforqa.lesson8;
+package java1.lesson8;
 
 import java.awt.*;
 import java.util.LinkedList;
 
-import static java1.lessonsforqa.lesson8.GameSnake.SNAKE_COLOR;
-import static java1.lessonsforqa.lesson8.GameSnake.SNAKE_HEAD_COLOR;
+import static java1.lesson8.GameSnake.SNAKE_COLOR;
+import static java1.lesson8.GameSnake.SNAKE_HEAD_COLOR;
 
 public class Snake {
     private LinkedList<Cell> snake;
